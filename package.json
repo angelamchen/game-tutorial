@@ -1,0 +1,23 @@
+{
+  "name": "game-tutorial",
+  "version": "1.0.0",
+  "description": "Following an online tutorial so I can eventually create exploding kittens",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelamchen/game-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelamchen/game-tutorial/issues"
+  },
+  "homepage": "https://github.com/angelamchen/game-tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
